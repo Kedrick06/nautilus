@@ -9,7 +9,7 @@ function App() {
       <header className="App-header">
     
         <div>
-        <img src="./src/assets/matches.png" alt="" />
+        <img src="/assets/matches.png" alt="" />
           <p>Issue 079</p>
             <h1>Catalysts</h1>
             <p>Agents of change</p>

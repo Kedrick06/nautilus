@@ -9,17 +9,19 @@ function App() {
       <header className="App-header">
     
         <div>
-        <img src='C:\Users\bflob\Desktop\nautilus_mockup\nautilus\assets\matches.png' alt="pic"/>
+        <img src="./src/assets/matches.png" alt="" />
           <p>Issue 079</p>
             <h1>Catalysts</h1>
             <p>Agents of change</p>
                 <button>Read More</button>
+        <br></br>
+        <div>
           <Fragment>
           <Hero />
 
           </Fragment>
         </div>
-
+        </div>
       </header>
     </div>
   );

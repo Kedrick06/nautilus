@@ -1,8 +1,4 @@
-* {
 
-  color: #222222;
-
-}
 .background {
   background-image: url(/assets/matches.png);
   height: 80vh;
@@ -22,7 +18,7 @@
     color:black;
     line-height: .85px;
   }
-  .text > h2{
+  .h2{
     font: italic 950 40px/40px "freight-display-pro", Georgia, "Times New Roman", Serif;
   }
   ._issue{
@@ -59,11 +55,8 @@
     padding: 10px;
     
   }
-   ._logo {
+   .logo {
     background-color: transparent;
-    border: 0;
-    color: transparent;
-    text-shadow: none;
     background-image: url(/assets/global/nautilus-logo-sprite@2x.png);
     background-size: 344px;
     width: 172px;

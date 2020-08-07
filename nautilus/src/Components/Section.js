@@ -7,7 +7,7 @@ class Section extends Component {
             <div className="navWrap">
 
                 <div className="main-nav">
-                    <div className="_logo"><a className="" href="#" ></a></div>
+                    <div className="logo"><a className="" href="#" ></a></div>
                     <div className="navDiv">
                         <ul className="_list">
                             <li className="issueNav navList"><a href="#">Issues</a></li>

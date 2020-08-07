@@ -76,7 +76,7 @@ class Section extends Component {
                         <div className="subsection">
                             <span> Artificial Intelligence</span>
                             <h4 >Best Screen Play goes to the Algorithms</h4>
-                            <h5 >By Arthur I.Miller </h5>
+                            <h5 >By Arthur I. Miller </h5>
                         </div>
                     </div>
                     <div className="midCenter">
@@ -102,7 +102,7 @@ class Section extends Component {
                     <div className="container">
 
                         <div className="box">
-                            <label className="caption">Making sense ofGenome , at last</label>
+                            <label className="caption">Making sense ofGenome, at last</label>
                         </div>
                         <div className="box2">
                             <label className="caption">Your Brain is on Brink of Chaos</label>
@@ -125,7 +125,7 @@ class Section extends Component {
                         </div>
                         <div className="box6">
                             <label className="caption">
-                                How much Shoud Expectation drive Science ?
+                                How much Shoud Expectation drive Science?
                         </label>
                         </div>
                     </div>
@@ -138,7 +138,7 @@ class Section extends Component {
                         </div>
                         <div className="box8">
                             <label className="caption">
-                                Yes , Life in the fast Lane Kills you
+                                Yes, Life in the fast Lane Kills you
                         </label>
                         </div>
                         <div className="box9">

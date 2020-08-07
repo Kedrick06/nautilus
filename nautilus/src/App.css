@@ -95,7 +95,7 @@
     left: 50%;
     transform: translate(-50%, -50%);
     color: #ffb618;
-    font-size: 25px;
+    font-size: 20px;
     text-align: center;
   }
   .issueTabs{
@@ -112,7 +112,7 @@
     position: relative;
     z-index: 1;
     border-style: solid;
-    width: 260px;
+    width: 250px;
     float: left;
   
     }

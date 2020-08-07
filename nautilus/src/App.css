@@ -139,7 +139,9 @@
   
   }
   .midCenter{
+
     display:flex;
+    
   }
   .midCenter1{
   background: url(/assets/music.png);

@@ -17,7 +17,7 @@ class Section extends Component {
                             <li className="linktabs"><a href="http://www.facebook.com" title="Facebook" target="_blank">Facebook</a></li>
                             <li className="linktabs"><a href="http://twitter.com" title="Twitter" target="_blank">Twitter</a></li>
                             <li className="linktabs"><a href="">Login</a></li>
-                            <li className="linktabs"><a href="" className="btnrv" target="">Subscribe</a></li>
+                            <li className="linktabs"><a href="" className="button" target="">Subscribe</a></li>
                         </ul>
                     </div>
                 </div>

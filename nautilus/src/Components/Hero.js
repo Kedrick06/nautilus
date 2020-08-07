@@ -15,7 +15,7 @@ class Home extends Component{
            <a  href="" className="_link">Read More</a>
          </div>
          <div className="button">
-         <button className = "btn">See Full Issue</button>
+         <button className = "button">See Full Issue</button>
          </div>
         </div>
     </div>

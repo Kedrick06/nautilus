@@ -14,7 +14,7 @@ class Home extends Component{
            <h5>Agents of change</h5>
            <a  href="" className="_link">Read More</a>
          </div>
-         <div className="_btn">
+         <div className="button">
          <button className = "btn">See Full Issue</button>
          </div>
         </div>

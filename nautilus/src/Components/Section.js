@@ -9,38 +9,38 @@ class Section extends Component {
                 <div>
                     <div className="logo"></div>
                     <div className="nav">
-                        <ul className="_list">
-                            <li className="issueNav navList"><a href="#">Issues</a></li>
-                            <li className="topic navList"><a href="#">Topics</a></li>
-                            <li className="navList"><a href="#">Blog</a></li>
-                            <li className="newsletter navList"><a href="#">Newsletter</a></li>
-                            <li className="navList"><a href="http://www.facebook.com" title="Facebook" target="_blank">Facebook</a></li>
-                            <li className="navList"><a href="http://twitter.com" title="Twitter" target="_blank">Twitter</a></li>
-                            <li className="navList"><a href="">Login</a></li>
-                            <li className="navList"><a href="" className="btnrv" target="">Subscribe</a></li>
+                        <ul>
+                            <li className="linktabs"><a href="#">Issues</a></li>
+                            <li className="linktabs"><a href="#">Topics</a></li>
+                            <li className="linktabs"><a href="#">Blog</a></li>
+                            <li className="linktabs"><a href="#">Newsletter</a></li>
+                            <li className="linktabs"><a href="http://www.facebook.com" title="Facebook" target="_blank">Facebook</a></li>
+                            <li className="linktabs"><a href="http://twitter.com" title="Twitter" target="_blank">Twitter</a></li>
+                            <li className="linktabs"><a href="">Login</a></li>
+                            <li className="linktabs"><a href="" className="btnrv" target="">Subscribe</a></li>
                         </ul>
                     </div>
                 </div>
 
-                <div className="midDiv">
-                    <div className="cardImg"></div>
-                    <div className="midText">
-                        <p>THE NAUTILUS SPOTLIGHT
-                    WHY THE LAWS OF PHYSICS ARE INEVITABLE</p>
-                    </div>
-                    <div className="">
-                        <button className="button ">Read Now</button>
-
+                <section>
+                    <div className="medianDiv"></div>
+                    <div className="medianText">
+                        <p>THE NAUTILUS SPOTLIGHT</p>
+                        <p>Why the laws of physics are inevitable</p>
                     </div>
 
-                </div>
+                    <div>
+                        <button className="button ">READ NOW</button>
+                    </div>
 
-                <div className="sideBarWrap">
-                    <div className="sideBar">
+                </section>
+
+                <aside>
+                    <div className="aside">
                         <div className="info">
-                            <a href="" className="">Issue 079</a>
-                            <h2><a href="#">Catalyst</a></h2>
-                            <p className="side_text"> “Whats generate a new theory in science? ...</p>
+                            <h1>Issue 079</h1>
+                            <h2>Catalyst</h2>
+                            <p> “Lorem ipsum ..."</p>
 
                             <ul id="issueTabs" className="sub_tabs" >
                                 <li className="sideList">
@@ -73,7 +73,7 @@ class Section extends Component {
                     </div>
                     <div className="centerSection">
                         <div className="centerImg"></div>
-                        <div className="details">
+                        <div className="subsection">
                             <span> Artificial Intelligence</span>
                             <h4 >Best Screen Play goes to the Algorithms</h4>
                             <h5 >By Arthur I.Miller </h5>
@@ -87,7 +87,7 @@ class Section extends Component {
                             <h5 >By John Supko </h5>
                         </div>
                         <div className="midBtm2"></div>
-                        <div className="details">
+                        <div className="subsection">
                             <span> Art</span>
                             <h4 >Picasso's got Nothing on AI Artist</h4>
                             <h5 >By Kevin Berger </h5>
@@ -153,30 +153,10 @@ class Section extends Component {
                             Taking to the Stars
                         </label>
                     </div>
-                    <p className="_pop"> Popular on Nautilus</p>
-                    <p className="_pop"> Facts so Romantic</p>
-
-                    <div className="container">
-
-                        <div className="conA3">
-                            <label className="imageText">Making sense ofGenome , at last</label>
-                        </div>
-                        <div className="conB3">
-                            <label className="imageText">Your Brain is on Brink of Chaos</label>
-                        </div>
-                        <div className="conC3">
-                            <label className="imageText">Mathematics Calculate How Randomness creeps in</label>
-                        </div>
-                        <div className="conD3">
-                            <label className="imageText">Mathematics Calculate How Randomness creeps in</label>
-                        </div>
-                        
-                    </div>
-                    <p className="_pop">Listen To Nautilus</p>
+        
 
 
-
-                </div>
+                </aside>
             </div>
 
         )

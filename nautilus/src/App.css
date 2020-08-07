@@ -62,14 +62,17 @@
   
    
   }
-  .nav{
+
+  .nav {
     top:80%;
     position: absolute;
     left: 38%;
     text-align: center;
     display: block;
+
   }
-  .medianDiv{
+
+  .medianDiv {
   background: url(/assets/clover_card.jpg);
   height: 30vh;
   width: 60vw;
@@ -80,7 +83,7 @@
   }
   
   .button {
-    font: 700 12px/1px "freight-sans-pro", Helvetica, Arial, sans-serif !important;
+    font: 700 12px/1px "freight-sans-pro", Helvetica, Arial, sans-serif;
     height: 15px;
     text-align: center;
     padding: 12px 10px;
@@ -89,7 +92,7 @@
     left: 52%;
     transform: translate(-65%, -65%);
   }
-  .medianText{
+  .medianText {
     position: absolute;
     top: 100%;
     left: 50%;
@@ -98,16 +101,18 @@
     font-size: 20px;
     text-align: center;
   }
-  .issueTabs{
+  .issueTabs {
     background: #f3f3f3;
     z-index: 3;
     position: absolute;
   
   }
-  .tabs{
+
+  .tabs {
     padding: 15px 0 18px;
   }
-  .aside{
+
+  .aside {
     position: relative;
     z-index: 1;
     border-style: solid;
@@ -116,7 +121,7 @@
   
     }
   
-  .subsection{
+  .subsection {
     position: relative;
     width: 180px;
     height: 170px;
@@ -125,12 +130,14 @@
     top:100%;
     left:-70.7%;
   }
-  .centerDiv{
+
+  .centerDiv {
   display:flex;
   padding-top: 10px;;
   
   }
-  .imageCenter{
+
+  .imageCenter {
   background: url(/assets/ai.png);
   height: 40vh;
   width: 80vw;
@@ -138,19 +145,23 @@
   position: relative;
   
   }
-  .midCenter{
+
+  .midCenter {
 
     display:flex;
-    
+
   }
-  .midCenter1{
+
+  .midCenter1 {
   background: url(/assets/music.png);
   height: 40vh;
   width: 30vw;
   text-align: center;
   position: relative;
+
   }
-  .centerMiddle{
+
+  .centerMiddle {
   background: url(/assets/art.png);
   height: 40vh;
   width: 30vw;
@@ -158,7 +169,8 @@
   position: relative;
   
   }
-  .musicTalk{
+ 
+  .musicTalk {
     position: relative;
     z-index:99;
     width: 188px;
@@ -169,37 +181,44 @@
     top:100%;
     left:32%;
     border:solid;
+
   }
-  .h3{
+
+  .h3 {
     text-align: center;
       font: italic 950 40px/40px "freight-display-pro", Georgia, "Times New Roman", Serif;
     
   }
-  .lastItem > h4{
+
+  .lastItem > h4 {
     text-align: center;
   }
-  .container{
+  .container {
     display : flex;
     justify-content: space-evenly;
     padding-bottom: 10px;
 
   }
-  .container1{
+
+  .container1 {
     display : flex;
     justify-content: space-evenly;
     padding-bottom: 10px;
   }
-  .container2{
+
+  .container2 {
     display : flex;
     justify-content: space-evenly;
     padding-bottom: 10px;
   }
-  .container3{
+
+  .container3 {
     display : flex;
     justify-content: space-evenly;
     padding-bottom: 10px;
   }
-  .box{
+
+  .box {
     background: url(/assets/bio_and_beyond.jpeg);
     height: 30vh;
     width: 20vw;

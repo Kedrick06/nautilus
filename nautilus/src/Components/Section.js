@@ -43,7 +43,7 @@ class Section extends Component {
                             <p> “Lorem ipsum ..."</p>
 
                             <ul id="issueTabs" className="sub_tabs" >
-                                <li className="sideList">
+                                <li>
                                     <div className="tabs">
                                         <h4>Chapter one</h4>
                                         <h4>Art</h4>

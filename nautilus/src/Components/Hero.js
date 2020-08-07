@@ -5,33 +5,23 @@ class Home extends Component{
         return(
            
     <div>
-<nav className='nav'>
-<ul>
-    <li>
-        <a href='issues'>ISSUES</a>
-    </li>
-    <li>
-        <a href='topics'>TOPICS</a>
-    <li>
-        <a href='/blog'>BLOG</a>
-    </li>
-    <li>
-        <a href='newsletter'>NEWSLETTER</a>
-    </li>
-    </li>
-</ul>
- </nav>
- 
-    <div className="hero">
-<img src='C:\Users\bflob\Desktop\nautilus_mockup\nautilus\assets\clover_card.jpg' />
-<h3>The Nautilus Spotlight</h3>
-<h1>WHY THE LAWS OF PHYSICS ARE INEVITABLE</h1>
-<button>Read Now</button> 
-</div>
-</div>
-           
+        <div>
 
-          
+         <div className="background">
+         <div className="text">
+           <h6 className="_issue">ISSUE 079</h6>
+           <h2>Catalyst</h2>
+           <h6>Agents of change</h6>
+           <a  href="" className="_link">Read More</a>
+         </div>
+         <div className="_btn">
+         <button className = "btn">See Full Issue</button>
+         </div>
+        </div>
+    </div>
+</div>
+      
+    
      
         )
     };

@@ -1,7 +1,7 @@
-import React, { Component } from 'react'
+import React, {Component} from 'react';
 
 
-export default class SecondPage extends Component {
+class Section extends Component {
     render() {
         return (
             <div className="navWrap">
@@ -182,3 +182,6 @@ export default class SecondPage extends Component {
         )
     }
 }
+
+
+export default Section;

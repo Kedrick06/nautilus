@@ -129,12 +129,12 @@
     top:100%;
     left:-70.7%;
   }
-  .centerSection{
+  .centerDiv{
   display:flex;
   padding-top: 10px;;
   
   }
-  .centerImg{
+  .imageCenter{
   background: url(/assets/ai.png);
   height: 40vh;
   width: 80vw;
@@ -142,17 +142,17 @@
   position: relative;
   
   }
-  .bottomMid{
+  .midCenter{
     display:flex;
   }
-  .midBtm1{
+  .midCenter1{
   background: url(/assets/music.png);
   height: 40vh;
   width: 30vw;
   text-align: center;
   position: relative;
   }
-  .midBtm2{
+  .centerMiddle{
   background: url(/assets/art.png);
   height: 40vh;
   width: 30vw;
@@ -160,7 +160,7 @@
   position: relative;
   
   }
-  .details2{
+  .musicTalk{
     position: relative;
     z-index:99;
     width: 188px;
@@ -172,7 +172,7 @@
     left:32%;
     border:solid;
   }
-  .lastItem > h3{
+  .h3{
     text-align: center;
       font: italic 950 40px/40px "freight-display-pro", Georgia, "Times New Roman", Serif;
     
@@ -180,26 +180,41 @@
   .lastItem > h4{
     text-align: center;
   }
-  .container,.container1,.container2,.container3{
+  .container{
+      display : flex;
+    justify-content: space-evenly;
+    padding-bottom: 10px;
+  }
+  .container1{
     display : flex;
     justify-content: space-evenly;
     padding-bottom: 10px;
   }
-  .conA{
+  .container2{
+    display : flex;
+    justify-content: space-evenly;
+    padding-bottom: 10px;
+  }
+  .container3{
+    display : flex;
+    justify-content: space-evenly;
+    padding-bottom: 10px;
+  }
+  .box{
     background: url(/assets/bio_and_beyond.jpeg);
     height: 30vh;
     width: 20vw;
     text-align: center;
   
   }
-  .conB{
+  .box2{
     background: url(/assets/wise_sci_and_engineering.png);
     height: 30vh;
     width: 20vw;
     text-align: center;
    
   }
-  .conC{
+  .box3{
     background: url(/assets/abstractions.jpeg);
     height: 30vh;
     width: 20vw;
@@ -207,49 +222,49 @@
     position: relative;
   }
   
-  .conA1{
+  .box4{
     background: url(/assets/earth.jpeg);
     height: 30vh;
     width: 20vw;
     text-align: center;
     position: relative;
   }
-  .conB1{
+  .box5{
     background: url(/assets/tlas.jpeg);
     height: 30vh;
     width: 20vw;
     text-align: center;
     position: relative;
   }
-  .conC1{
+  .box6{
     background: url(/assets/cosmos.jpeg);
     height: 30vh;
     width: 20vw;
     text-align: center;
     position: relative;
   }
-  .conA2{
+  .box7{
     background: url(/assets/poetry.jpeg);
     height: 30vh;
     width: 20vw;
     text-align: center;
     position: relative;
   }
-  .conB2{
+  .box8{
     background: url(/assets/aging.png);
     height: 30vh;
     width: 20vw;
     text-align: center;
     position: relative;
   }
-  .conC2{
+  .box9{
     background: url(/assets/alliance.png);
     height: 30vh;
     width: 20vw;
     text-align: center;
    
   }
-  .C2{
+  .box10{
     background: url(/assets/maxplanck.jpeg);
     height: 30vh;
     width: 20vw;
@@ -257,40 +272,7 @@
     margin-left: 150px;
   
   }
-  .imageText{
+  .caption{
     color:white;
     font: 550 20px/20px "freight-display-pro", Georgia, "Times New Roman", Serif;
-  }
-  ._pop{
-    color:black;
-    font: 550 20px/20px "freight-display-pro", Georgia, "Times New Roman", Serif;
-    text-align: center;
-  }
-  .conA3{
-    background: url(/assets/ideas.jpg);
-    height: 30vh;
-    width: 20vw;
-    text-align: center;
-  
-  }
-  .conB3{
-    background: url(/assets/biology.jpg);
-    height: 30vh;
-    width: 20vw;
-    text-align: center;
-    position: relative;
-  }
-  .conC3{
-    background: url(/assets/matter.jpg);
-    height: 30vh;
-    width: 20vw;
-    text-align: center;
-   
-  }
-  .conD3{
-    background: url(/assets/biology_02.jpg);
-    height: 30vh;
-    width: 20vw;
-    text-align: center;
-   
   }

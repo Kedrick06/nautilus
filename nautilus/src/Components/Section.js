@@ -49,19 +49,19 @@ class Section extends Component {
                                         <h4>Art</h4>
                                     </div>
                                 </li>
-                                <li className="sideList">
+                                <li>
                                     <div className="tabs">
                                         <h4>Chapter 2</h4>
                                         <h4>Mind</h4>
                                     </div>
                                 </li>
-                                <li className="sideList">
+                                <li>
                                     <div className="tabs">
                                         <h4>Chapter 3</h4>
                                         <h4 >Energy</h4>
                                     </div>
                                 </li>
-                                <li className="sideList">
+                                <li>
                                     <div className="tabs">
                                         <h4>Chapter 4</h4>
                                         <h4>Stars</h4>
@@ -71,85 +71,85 @@ class Section extends Component {
                             </ul>
                         </div>
                     </div>
-                    <div className="centerSection">
-                        <div className="centerImg"></div>
+                    <div className="centerDiv">
+                        <div className="imageCenter"></div>
                         <div className="subsection">
                             <span> Artificial Intelligence</span>
                             <h4 >Best Screen Play goes to the Algorithms</h4>
                             <h5 >By Arthur I.Miller </h5>
                         </div>
                     </div>
-                    <div className="bottomMid">
-                        <div className="midBtm1"></div>
-                        <div className="details2">
+                    <div className="midCenter">
+                        <div className="midCenter1"></div>
+                        <div className="musicTalk">
                             <span> Music</span>
                             <h4>How I taught My Computer to write its Own Music</h4>
                             <h5 >By John Supko </h5>
                         </div>
-                        <div className="midBtm2"></div>
+                        <div className="centerMiddle"></div>
                         <div className="subsection">
                             <span> Art</span>
-                            <h4 >Picasso's got Nothing on AI Artist</h4>
+                            <h4 >Picasso's got Nothing on an AI Artist</h4>
                             <h5 >By Kevin Berger </h5>
                         </div>
                     </div>
-                    <div className="lastItem">
-                        <h3>Channels</h3>
-                        <h4>Tune in to Nautilus' deep dive portals</h4>
+                    <div>
+                        <h3 className="h3">Channels</h3>
+                        <h4>Tune in to Nautilus' deep dive portals!</h4>
 
                     </div>
 
                     <div className="container">
 
-                        <div className="conA">
-                            <label className="imageText">Making sense ofGenome , at last</label>
+                        <div className="box">
+                            <label className="caption">Making sense ofGenome , at last</label>
                         </div>
-                        <div className="conB">
-                            <label className="imageText">Your Brain is on Brink of Chaos</label>
+                        <div className="box2">
+                            <label className="caption">Your Brain is on Brink of Chaos</label>
                         </div>
-                        <div className="conC">
-                            <label className="imageText">Mathematics Calculate How Randomness creeps in</label>
+                        <div className="box3">
+                            <label className="caption">Mathematics Calculate How Randomness creeps in</label>
                         </div>
                     </div>
                     <div className="container1">
 
-                        <div className="conA1">
-                            <label className="imageText">
+                        <div className="box4">
+                            <label className="caption">
                                 The Deep time of Walden Pond
                         </label>
                         </div>
-                        <div className="conB1">
-                            <label className="imageText">
+                        <div className="box5">
+                            <label className="caption">
                                 The Best Burger place is a Lab
                         </label>
                         </div>
-                        <div className="conC1">
-                            <label className="imageText">
+                        <div className="box6">
+                            <label className="caption">
                                 How much Shoud Expectation drive Science ?
                         </label>
                         </div>
                     </div>
                     <div className="container2">
 
-                        <div className="conA2">
-                            <label className="imageText">
+                        <div className="box7">
+                            <label className="caption">
                                 On observation and Imagination
                         </label>
                         </div>
-                        <div className="conB2">
-                            <label className="imageText">
+                        <div className="box8">
+                            <label className="caption">
                                 Yes , Life in the fast Lane Kills you
                         </label>
                         </div>
-                        <div className="conC2">
-                            <label className="imageText">
+                        <div className="box9">
+                            <label className="caption">
                                 Taking to the Stars
                         </label>
                         </div>
 
                     </div>
-                    <div className="C2">
-                        <label className="imageText">
+                    <div className="box10">
+                        <label className="caption">
                             Taking to the Stars
                         </label>
                     </div>

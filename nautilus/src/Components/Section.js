@@ -45,25 +45,25 @@ class Section extends Component {
                             <ul id="issueTabs" className="sub_tabs" >
                                 <li>
                                     <div className="tabs">
-                                        <h4>Chapter one</h4>
+                                        <h4>Chapter 1</h4>
                                         <h4>Art</h4>
                                     </div>
                                 </li>
                                 <li className="sideList">
                                     <div className="tabs">
-                                        <h4>Chapter two</h4>
+                                        <h4>Chapter 2</h4>
                                         <h4>Mind</h4>
                                     </div>
                                 </li>
                                 <li className="sideList">
                                     <div className="tabs">
-                                        <h4>Chapter three</h4>
+                                        <h4>Chapter 3</h4>
                                         <h4 >Energy</h4>
                                     </div>
                                 </li>
                                 <li className="sideList">
                                     <div className="tabs">
-                                        <h4>Chapter Four</h4>
+                                        <h4>Chapter 4</h4>
                                         <h4>Stars</h4>
                                     </div>
                                 </li>

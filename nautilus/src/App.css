@@ -21,7 +21,7 @@
   .h2{
     font: italic 950 40px/40px "freight-display-pro", Georgia, "Times New Roman", Serif;
   }
-  ._issue{
+  .mag{
     font: 700 10px/10px "freight-sans-pro", Helvetica, Arial, Sans-Serif;
     text-transform: uppercase;
     letter-spacing: .1em;

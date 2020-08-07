@@ -181,10 +181,10 @@
     text-align: center;
   }
   .container{
-      display : flex;
+    display : flex;
     justify-content: space-evenly;
     padding-bottom: 10px;
-    
+
   }
   .container1{
     display : flex;

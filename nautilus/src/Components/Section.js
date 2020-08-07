@@ -46,25 +46,25 @@ class Section extends Component {
                                 <li>
                                     <div className="tabs">
                                         <h4>Chapter 1</h4>
-                                        <h4>Art</h4>
+                                        <h3>Art</h3>
                                     </div>
                                 </li>
                                 <li>
                                     <div className="tabs">
                                         <h4>Chapter 2</h4>
-                                        <h4>Mind</h4>
+                                        <h3>Mind</h3>
                                     </div>
                                 </li>
                                 <li>
                                     <div className="tabs">
                                         <h4>Chapter 3</h4>
-                                        <h4 >Energy</h4>
+                                        <h3 >Energy</h3>
                                     </div>
                                 </li>
                                 <li>
                                     <div className="tabs">
                                         <h4>Chapter 4</h4>
-                                        <h4>Stars</h4>
+                                        <h3>Stars</h3>
                                     </div>
                                 </li>
 
@@ -72,7 +72,10 @@ class Section extends Component {
                         </div>
                     </div>
                     <div className="centerDiv">
-                        <div className="imageCenter"></div>
+
+                        <div className="imageCenter">
+
+                        </div>
                         <div className="subsection">
                             <span> Artificial Intelligence</span>
                             <h4 >Best Screen Play goes to the Algorithms</h4>

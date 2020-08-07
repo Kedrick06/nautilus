@@ -62,13 +62,11 @@
     width: 172px;
     height: 55px;
     left:20%;
-    text-decoration: none;
-    color:black;
     position: relative;
-    display: block;
+  
    
   }
-  .navDiv{
+  .nav{
     top:80%;
     position: absolute;
     left: 38%;

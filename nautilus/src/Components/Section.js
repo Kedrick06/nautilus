@@ -4,11 +4,11 @@ import React, {Component} from 'react';
 class Section extends Component {
     render() {
         return (
-            <div className="navWrap">
+            <div>
 
-                <div className="main-nav">
-                    <div className="logo"><a className="" href="#" ></a></div>
-                    <div className="navDiv">
+                <div>
+                    <div className="logo"></div>
+                    <div className="nav">
                         <ul className="_list">
                             <li className="issueNav navList"><a href="#">Issues</a></li>
                             <li className="topic navList"><a href="#">Topics</a></li>
